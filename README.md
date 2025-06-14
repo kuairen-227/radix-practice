@@ -1,6 +1,6 @@
-# nextjs-template
+# radix-practice
 
-Next.js (App router) 用テンプレート
+Radix UI 確認用
 
 ## :notebook: ドキュメント一覧
 
