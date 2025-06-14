@@ -1,0 +1,10 @@
+{
+  "root": true,
+  "extends": [
+    "next",
+    "next/core-web-vitals",
+    "next/typescript",
+    "prettier",
+    "plugin:@next/next/recommended"
+  ]
+}
